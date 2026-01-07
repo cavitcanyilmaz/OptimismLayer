@@ -39,3 +39,4 @@
 2025-08-17T05:42:09 | touched: .env.example
 2026-01-03T16:57:38 | touched: hardhat.config.js
 2026-01-15T23:38:26 | touched: test/Optimismlayer.test.js
+2026-01-07T20:15:17 | touched: scripts/deploy.js
